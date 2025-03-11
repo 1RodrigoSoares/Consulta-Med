@@ -16,3 +16,7 @@ Um sistema para gerenciar consultas médicas, implementando padrões de projeto 
 | **Mediator**                | `MediadorClinica`                           |
 | **Chain of Responsibility** | `ManipuladorEncaminhamento`, `ManipuladorCardiologista`, `ManipuladorOrtopedista` |
 | **Template Method**         | `ProcessoConsulta`, `ProcessoConsultaEmergencia`, `ProcessoConsultaAgendada` |
+
+
+## 📊 Diagrama de Classes
+![ConsultaMedFinal drawio](https://github.com/user-attachments/assets/c57d4a7a-8648-4ce9-9754-8e34da7cc3e8)
