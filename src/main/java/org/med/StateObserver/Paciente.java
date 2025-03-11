@@ -2,7 +2,6 @@ package org.med.StateObserver;
 
 import org.med.Mediator.MediadorClinica;
 
-import javax.print.attribute.standard.Media;
 import java.util.Observer;
 import java.util.Observable;
 

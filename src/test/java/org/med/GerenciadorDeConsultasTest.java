@@ -13,6 +13,7 @@ class GerenciadorDeConsultasTest {
     @BeforeEach
     void setUp() {
         gerenciador = GerenciadorDeConsultas.getInstancia();
+        gerenciador.limparConsultas();
     }
 
     @Test

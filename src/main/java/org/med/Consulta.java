@@ -11,7 +11,6 @@ import java.time.LocalDateTime;
 
 public class Consulta extends Observable{
     private String paciente;
-    private LocalDateTime data;
     private String tipo;
     private EstadoConsulta estado;
     private ManipuladorEncaminhamento encaminhamentoInicial;

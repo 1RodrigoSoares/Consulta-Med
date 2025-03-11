@@ -11,7 +11,6 @@ public class ChainResponsabilityTest {
 
     @BeforeEach
     void setUp() {
-        // Ordem: Generalista -> Pediatra -> Cardiologista
         chain = new ManipuladorGeneralista(
                 new ManipuladorPediatra(
                         new ManipuladorCardiologista(null)

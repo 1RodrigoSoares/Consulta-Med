@@ -27,7 +27,6 @@ public class StateObserverTest {
     void deveIniciarConsultaQuandoAgendada() {
         boolean sucesso = consulta.iniciar();
 
-        // Verificações
         assertTrue(sucesso);
         assertEquals("Em Andamento", consulta.getEstadoAtual());
         assertEquals("Em Andamento", paciente.getUltimaNotificacao());
