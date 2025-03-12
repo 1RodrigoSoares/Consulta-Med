@@ -19,4 +19,5 @@ Um sistema para gerenciar consultas médicas, implementando padrões de projeto 
 
 
 ## 📊 Diagrama de Classes
-![ConsultaMedFinal drawio](https://github.com/user-attachments/assets/c57d4a7a-8648-4ce9-9754-8e34da7cc3e8)
+![final2ConsultaMed drawio](https://github.com/user-attachments/assets/a3292be7-55fa-40c1-b463-923c2dfd8278)
+
